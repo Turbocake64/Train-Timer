@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(48,112,110);
+}
+
+.background-display {
+    background-color: white;
+}
+
+.jumbotron {
+    background-image: url(../images/Jumbo-Texture.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    border: 3px solid darkolivegreen;
+};
+
+#table-style {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#form-style {
+    background-color: white;
+    padding: 20px;
+    border: 3px solid darkolivegreen;
+    margin-bottom: 40px;
+}
+
+#display {
+    background-color: grey;
+}
